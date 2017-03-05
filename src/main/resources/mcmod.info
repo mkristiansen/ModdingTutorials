@@ -1,0 +1,15 @@
+[
+{
+  "modid": "ktm1",
+  "name": "Kristiansense first MineCraft Mod",
+  "description": "Our first attempt at creating a Minecraft Mod",
+  "version": "0.1.0",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Morten Kristiansen", "Elliott Kristiansen", "Spencer Kristiansen"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
